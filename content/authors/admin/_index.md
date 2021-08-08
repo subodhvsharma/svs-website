@@ -1,77 +1,83 @@
 ---
+#cms_exclude: true
+
 # Display name
-title: Nelson Bighetti
+title: Subodh Sharma
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
+# Role/position
+role: Assistant Professor and Pankaj Gupta Chair Professor in Privacy and Decentralisation
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: CSE@IIT Delhi
+  url: http://www.cse.iitd.ac.in
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+bio: 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Formal Verification
+- Program Analysis 
+- Systems Security, Data Privacy
+- High Performance Computing
 
-# Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: University of Utah
+    year: 
+  # - course: B.E. in Computer Engineering
+  #   institution: Mumbai University
+  #   year: 2008
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/subodhsharma
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.org/pers/hd/s/Sharma:Subodh
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.in/citations?user=Xas65uoAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
+  link: https://in.linkedin.com/in/subodh-sharma-b05924b
+- icon: github
+  icon_pack: fab
+  link: https://github.com/subodhvsharma
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research is primarily in the area of software engineering and formal methods. I am interested in ensuring the reliability of parallel software via static and dynamic program analyses, model checking, and PL solutions. I am also interested in employing HPC towards the creation of scalable verification technology. My recent research investigations
+have been in the area of systems security, data privacy, and Blockchain.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to joining the Department of Computer Science and Engineering at IIT Delhi, I worked as a post-doctoral researcher in the [Systems Verification group](http://www.cprover.org/) at the [University of Oxford](http://www.ox.ac.uk/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am associated with the [VerTeCS research group@IITD](http://vertecs.iitd.ac.in/) and also an associated faculty member in the [School for Public Policy](https://spp.iitd.ac.in/).

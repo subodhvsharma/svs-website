@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Academic # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://subodhvsharma.github.io' # Website URL
+copyright: '&copy; 2019 SubodhSharma' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -43,7 +43,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, headers, redirects] #WebAppManifest
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
@@ -57,6 +57,9 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true # [svs]: this allows for raw HTML rendering 
 related:
   threshold: 80
   includeNewer: true

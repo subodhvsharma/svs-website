@@ -9,6 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
+active: true 
+
 title: Contact
 subtitle:
 
@@ -18,7 +20,7 @@ content:
   
   # Email form provider
   form:
-    provider: netlify
+    provider: #netlify
     formspree:
       id:
     netlify:

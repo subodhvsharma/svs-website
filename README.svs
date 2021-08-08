@@ -1,0 +1,27 @@
+For the first time:
+
+$git clone https://github.com/your-name/academic-kickstart.git ./svs-website
+$cd svs-website
+$git submodule update --init --recursive # this step keeps your forked repo uptodate
+
+We need now to add subodhvsharma.github.io repository as a submodule
+inside the public folder of the svs-website
+
+$git submodule add -f -b master https://github.com/subodhvsharma/subodhvsharma.github.io.git public
+
+Now you need to generate the website with the $hugo command. First,
+you can commit and push your changes from the svs-website
+repository on GitHub and then do the same for the subodhvsharma.github.io
+submodule and your website will be available online!
+
+$git add .
+$git commit -m "Initial commit"
+$git push -u origin master
+
+$hugo # Generate the website inside the public directory
+$cd public
+$git add .
+$git commit -m "Build website"
+$git push origin master
+cd ..
+
