@@ -12,6 +12,7 @@ else
   git add -A
   git commit -am "$1"
   git push origin master
+fi
 
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`

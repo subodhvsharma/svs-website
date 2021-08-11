@@ -16,7 +16,7 @@ menu:
 
 **Semester**: I, 2021-2022<br/>
 **Timings**: Mon/Thur 09:30-11:00 <br/>
-**TA**: Abhsihek rose (email: abhishek.rose@cse.iitd.ac.in)
+**TA**: Abhishek rose (email: abhishek.rose@cse.iitd.ac.in)
 
 ## Course Outline
 
@@ -83,7 +83,7 @@ An ``I`` grade will be awarded only in the case of an illness during the major e
 </tr>
 <tr>
   <td> 1 </td>
-  <td><i>Aug 9</i><br><a href="" target="_blank"> L1:Introduction </a><br></td>
+  <td><i>Aug 9</i><br><a href="/col765-classnotes/l1.pdf" target="_blank"> L1:Introduction </a><br></td>
   <td><i>Aug 12</i><br><a href="" target="_blank"> </a></td>
   <td> <a href="https://www.haskell.org/documentation/" target="_blank">Install Haskell and run some simple programs.</a></td>
   <td> </td>
