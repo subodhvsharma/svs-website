@@ -34,7 +34,7 @@ design:
   # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "20px", "0"]
 ---
-- Serving on the PC of CAV 2022. 
+- I am serving on the PC of [CAV 2022](http://i-cav.org/2022/), [HiPC(SRS)-2021](https://hipc.org/srs/), [EduHiPC-2021](https://tcpp.cs.gsu.edu/curriculum/?q=eduhipc-21). 
 - Divyanjali's work on "Thread-modular Analysis of Release-Acquire Concurrency" has been accepted in [28 Static Analysis Symposium 2021](https://conf.researchr.org/home/sas-2021). If you are looking for a preprint, please email me. 
 - Sanjana's work on "Dynamic Verification of C/C++11 Concurrency over Multi Copy Atomics" is accepted
 in [TASE 2021](https://tase2021.github.io/). 
