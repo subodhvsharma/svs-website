@@ -15,7 +15,7 @@ menu:
 ## General Information
 
 **Semester**: II, 2021-2022<br/>
-**Timings**: Tue/Thur/Fri 11:00-11:50  (Slot F -- may change) <br/>
+**Timings**: Mon/Thur 15:30-17:00  (Slot AB) <br/>
 **TA**: Tooba Khan (email: Tooba.Khan.jcs21@csia.iitd.ac.in)
 
 ## Course Outline
@@ -75,15 +75,13 @@ Lecture notes will be available on Moodle.
     <col width="200px" />
 <tr bgcolor=CornflowerBlue>
  <th> Week</th>
-  <th>Tuesday</th>
+  <th>Monday</th>
   <th>Thursday</th>
-  <th>Friday</th>
   <th> General notes </th>
 </tr>
 <tr>
   <td> 1 </td>
-  <td><i>Jan 4</i><br><a href="" target="_blank"> L1:Introduction </a><br></td>
-  <td> </td>
+  <td><i>Jan 3</i><br><a href="" target="_blank"> L1:Introduction </a><br></td>
   <td> </td>
   <td> 
   <ul>
