@@ -81,8 +81,8 @@ Lecture notes will be available on Moodle.
 </tr>
 <tr>
   <td> 1 </td>
-  <td><i>Jan 3</i><br><a href="" target="_blank"> L1:Introduction </a><br></td>
-  <td> </td>
+  <td><i>Jan 3</i><br>L1:Introduction, Modeling <br></td>
+  <td><i> Jan 6</i><br>L2:Modeling (concurrency), SPIN <br></td>
   <td> 
   <ul>
   <li> Read chapter 1 and 2 of PMC </li>
