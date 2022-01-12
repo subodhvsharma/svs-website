@@ -90,4 +90,16 @@ Lecture notes will be available on Moodle.
  </ul>
   </td>
 </tr>
+
+<tr>
+  <td> 2 </td>
+  <td><i>Jan 10</i><br>L3:Modeling (continued), SPIN <br></td>
+  <td><i> Jan 6</i><br>L4: Linear Time Properties <br></td>
+  <td> 
+  <ul>
+  <li> Read chapter 3 of PMC </li>
+  <li> </a> </li>
+ </ul>
+  </td>
+</tr>
 </table>
