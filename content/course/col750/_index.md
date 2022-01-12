@@ -98,7 +98,12 @@ Lecture notes will be available on Moodle.
   <td> 
   <ul>
   <li> Read chapter 3 of PMC </li>
-  <li> </a> </li>
+  <li> Explore the following model checkers:</a> </li>
+    <ul>
+        <li> Try modeling Tic-Tac-Toe in <a href="http://haslab.github.io/Electrum/"> Electrum </a> </li>
+        <li> Try modeling and verifying basic snooping cache coherence protocol using 
+        <a href="http://formalverification.cs.utah.edu/Murphi/"> Murphi model checker </a> </li>
+      </ul>
  </ul>
   </td>
 </tr>
