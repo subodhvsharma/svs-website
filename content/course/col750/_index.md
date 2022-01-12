@@ -71,7 +71,7 @@ Lecture notes will be available on Moodle.
     <col width="100px" />
     <col width="300px" />
     <col width="300px" />
-    <col width="600px" />
+    <col width="400px" />
 <tr bgcolor=CornflowerBlue>
  <th> Week</th>
   <th>Monday</th>
