@@ -25,3 +25,13 @@ $git commit -m "Build website"
 $git push origin master
 cd ..
 
+===========================
+
+Error: failed to resolve output format
+Users report a commonly occurring Hugo issue with the integrity of the modules cache. Consider upvoting and commenting on the issue to show the Hugo team that you are also affected.
+
+To resolve this Hugo issue, either:
+
+(A) Manually delete Hugo’s default cache folder and re-run Hugo. Hugo’s cache folder defaults to $TMPDIR/hugo_cache/ on Mac/Linux and %TMP%\hugo_cache\ on Windows.
+
+Or, (B) Set a custom Hugo cache folder when you run Hugo, for example: hugo server --cacheDir ./cache/ where ./cache/ is the path of a temporary folder to create. Then you can easily locate and delete Hugo’s cache folder should you experience this issue.
