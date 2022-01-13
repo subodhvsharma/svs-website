@@ -76,7 +76,7 @@ Lecture notes will be available on Moodle.
  <th> Week</th>
   <th>Monday</th>
   <th>Thursday</th>
-  <th> General notes </th>
+  <th> Reading assignments and Supplementary material</th>
 </tr>
 <tr>
   <td> 1 </td>
