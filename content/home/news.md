@@ -36,7 +36,7 @@ design:
 ---
 - Ridhi's work on "BiRD: Race Detection in Software Binaries under Relaxed Memory Models" is accepted for publication in [ACM Transactions on Software Engineering and 
 Methodology (TOSEM)](https://dl.acm.org/journal/tosem). 
-- I am serving on the PC of [SAT 2022](http://satisfiability.org/SAT22/), [CAV 2022](http://i-cav.org/2022/), [HiPC(SRS)-2021](https://hipc.org/srs/), and [EduHiPC-2021](https://tcpp.cs.gsu.edu/curriculum/?q=eduhipc-21).
+- I am serving on the PC of [SAT 2022](http://satisfiability.org/SAT22/), [CAV 2022](http://i-cav.org/2022/), [HiPC(SRS)-2021](https://hipc.org/srs/), and [EduHiPC-2021](https://tcpp.cs.gsu.edu/curriculum/?q=eduhipc-21). Consider submitting!
 - Divyanjali's work on "Thread-modular Analysis of Release-Acquire Concurrency" has been accepted in [28 Static Analysis Symposium 2021](https://conf.researchr.org/home/sas-2021). If you are looking for a preprint, please email me. 
 - Sanjana's work on "Dynamic Verification of C/C++11 Concurrency over Multi Copy Atomics" is accepted
 in [TASE 2021](https://tase2021.github.io/). 
